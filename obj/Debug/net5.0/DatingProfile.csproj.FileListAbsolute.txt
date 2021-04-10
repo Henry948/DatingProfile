@@ -1,0 +1,16 @@
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\net5.0\DatingProfile.exe
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\net5.0\DatingProfile.deps.json
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\net5.0\DatingProfile.runtimeconfig.json
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\net5.0\DatingProfile.runtimeconfig.dev.json
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\net5.0\DatingProfile.dll
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\net5.0\ref\DatingProfile.dll
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\net5.0\DatingProfile.pdb
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\net5.0\DatingProfile.csprojAssemblyReference.cache
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\net5.0\DatingProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\net5.0\DatingProfile.AssemblyInfoInputs.cache
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\net5.0\DatingProfile.AssemblyInfo.cs
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\net5.0\DatingProfile.csproj.CoreCompileInputs.cache
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\net5.0\DatingProfile.dll
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\net5.0\ref\DatingProfile.dll
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\net5.0\DatingProfile.pdb
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\net5.0\DatingProfile.genruntimeconfig.cache

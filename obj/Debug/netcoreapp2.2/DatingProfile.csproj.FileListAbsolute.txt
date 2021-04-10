@@ -1,0 +1,12 @@
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\netcoreapp2.2\DatingProfile.deps.json
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\netcoreapp2.2\DatingProfile.runtimeconfig.json
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\netcoreapp2.2\DatingProfile.runtimeconfig.dev.json
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\netcoreapp2.2\DatingProfile.dll
+C:\Users\User23\Documents\GitHub\DatingProfile\bin\Debug\netcoreapp2.2\DatingProfile.pdb
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\netcoreapp2.2\DatingProfile.csprojAssemblyReference.cache
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\netcoreapp2.2\DatingProfile.AssemblyInfoInputs.cache
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\netcoreapp2.2\DatingProfile.AssemblyInfo.cs
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\netcoreapp2.2\DatingProfile.csproj.CoreCompileInputs.cache
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\netcoreapp2.2\DatingProfile.dll
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\netcoreapp2.2\DatingProfile.pdb
+C:\Users\User23\Documents\GitHub\DatingProfile\obj\Debug\netcoreapp2.2\DatingProfile.genruntimeconfig.cache

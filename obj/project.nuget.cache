@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gdc02V1pXAWyCNTgceFe3zutHEVDxl7UWmEg09vxLPZ7lY7zSsE0DNspjiI5HafiYQqbFQmOOkQ/C+caX1uPmQ==",
+  "dgSpecHash": "evuUxEQuWua6H32mp1Hf5vkREjcS8/aJVjQwlAUgqTOqa0C33K2ageDxx+yH2KTAjtjLLbpJziIbNa4w9HjQkg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\User23\\Documents\\GitHub\\DatingProfile\\DatingProfile.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User23\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
-    "C:\\Users\\User23\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
-    "C:\\Users\\User23\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
-    "C:\\Users\\User23\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
-    "C:\\Users\\User23\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
-    "C:\\Users\\User23\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
-    "C:\\Users\\User23\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\User23\\Documents\\GitHub\\DatingProfile\\DatingProfile.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
