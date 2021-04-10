@@ -28,8 +28,19 @@ namespace DatingProfile
 
         public string ViewProfile()
         {
-            string bio = $"Name: {this.name} \nAge: {this.age} \nCity: {this.city} \nCountry: {this.country} \nPronouns: {this.pronouns} \nHobbies: {this.hobbies}";
+            string bio = $"Name: {this.name} \nAge: {this.age} \nCity: {this.city} \nCountry: {this.country} \nPronouns: {this.pronouns}";
+            bio += "\nHobbies:\n";
+            foreach(string hobby in hobbies)
+            {
+                bio += $"- {hobby}\n";
+            }
             return bio;
+        }
+
+        public string[] SetHobbies(string[] hobbies)
+        {
+            this.hobbies = hobbies;
+            return hobbies;
         }
     }
 }
